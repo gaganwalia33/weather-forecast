@@ -1,4 +1,8 @@
-My Weather Forecast App Repository
+<<<<<<< HEAD
+Weather Forecast App
+=======
+Weather Forecast App
+>>>>>>> garvita
 A simple and intuitive weather forecast application that allows users to view current weather conditions and forecasts for any location around the world. Built using modern web technologies and powered by real-time weather APIs.
 
 🚀 Features
