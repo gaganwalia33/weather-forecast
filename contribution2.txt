@@ -1,0 +1,22 @@
+Weather Forecast App
+A simple and intuitive weather forecast application that allows users to view current weather conditions and forecasts for any location around the world. Built using modern web technologies and powered by real-time weather APIs.
+
+🚀 Features
+🔍 Search weather by city or location
+
+🌡️ View current temperature, humidity, and wind speed
+
+🗓️ 5-day weather forecast with daily summaries
+
+🌓 Display based on local time, with day/night themes
+
+📍 Option to use geolocation for local weather
+
+📱 Fully responsive UI for desktop and mobile
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript (or React/Vue/etc.)
+
+API: OpenWeatherMap (or any other weather API)
+
+Optional: TailwindCSS, Bootstrap, Axios, etc.
