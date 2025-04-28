@@ -1,4 +1,8 @@
-Awesome Weather Forecast App
+<<<<<<< HEAD
+Weather Forecast Repository
+=======
+Weather Forecast Repository
+>>>>>>> task9
 The Weather Forecast repository is a complete web application designed to deliver accurate and real-time weather updates for users around the world. It integrates with reliable third-party weather APIs to fetch live data including temperature, humidity, wind speed, atmospheric pressure, and weather conditions (e.g., cloudy, sunny, rainy).
 
 Key Features
@@ -32,4 +36,8 @@ The API responds with real-time weather data.
 
 The frontend processes and displays this information in an organized, easy-to-read layout.
 
+<<<<<<< HEAD
 Users can view current, hourly, and 7-day forecasts, along with additional details like sunrise/sunset times, UV index, and more (depending on the API features used).
+=======
+Users can view current, hourly, and 7-day forecasts, along with additional details like sunrise/sunset times, UV index, and more (depending on the API features used).
+>>>>>>> task9
