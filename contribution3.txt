@@ -1,0 +1,2 @@
+New Weather Forecast App
+this site is made using html css and js
