@@ -1,2 +1,6 @@
-New weather forecast app
+<<<<<<< HEAD
+weather forecast repositiory
+=======
+weather forecast repositiory
+>>>>>>> garima
 we have made this using html,css, and js.
