@@ -1,2 +1,6 @@
-New Weather Forecast App
+<<<<<<< HEAD
+Weather Forecast Repository
+=======
+Weather Forecast Repository
+>>>>>>> Aastha
 This app is made using html css and js.
