@@ -1,0 +1,2 @@
+Weather Forecast Repo
+this app is created using html css and js.
